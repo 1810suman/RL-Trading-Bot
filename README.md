@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RL Trading Bot</title>
 </head>
 <body>
     <h1 align="center">🤖 RL-Powered Algorithmic Trading Bot</h1>
     
   <p align="center">
-        <img src="trading_results.png" alt="Trading Results Visualization" width="800"/>
+        <img src="trading_results.png" alt="Trading Results Visualization" width="200"/>
     </p>
     
   <h2>📊 Project Overview</h2>
